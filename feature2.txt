@@ -1,0 +1,1 @@
+Este archivo depende del archivo feature1 y tiene un feature2
